@@ -7,3 +7,5 @@ Ways to refactor:
 - Expand to OOP
 - Load documents (txt files, etc) as context, to simulate a RAG
 - Expand to incorporate a Text UI
+- Load a dataset into a vector database
+- Query the database for your context to answer the user
